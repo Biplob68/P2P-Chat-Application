@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#171E60</color>
+    <color name="colorPrimaryDark">#420704</color>
+    <color name="colorAccent">#9C0A40</color>
+
+    <style
+        name="HeaderBar">
+        <item name="android:background">#303F9F</item>
+    </style>
+</resources>
