@@ -6,13 +6,13 @@
 
 ### Base Feature:
 
-1.When the system is opened, an option to provide the IP address and port number of the counterpart system of the other user, Both users then stay connected between them.
+1. When the system is opened, an option to provide the IP address and port number of the counterpart system of the other user, Both users then stay connected between them.
 
-2.A proper GUI and read-only text box to show exchanged message, a text entry field to write a new message and a send button.
+2. A proper GUI and read-only text box to show exchanged message, a text entry field to write a new message and a send button.
 
-3.An option to send textual file between them.
+3. An option to send textual file between them.
 
-4.The exchanged message can be saved.
+4. The exchanged message can be saved.
 
 
 ### Extra Feature:
