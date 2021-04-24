@@ -2,7 +2,7 @@
                                                     "P2P Chat Application"
 
 
-It is an android peer to peer chatting application. Using this application an user can exchange messages to others After accessing the apps, any user can work on the server or client. One user can connect to another user's by port number and IP address and they can exchange messages, text files with each other.....
+# It is an android peer to peer chatting application. Using this application an user can exchange messages to others After accessing the apps, any user can work on the server or client. One user can connect to another user's by port number and IP address and they can exchange messages, text files with each other.....
 
 ##Base Feature:
 
